@@ -1,0 +1,472 @@
+\begin{thebibliography}{45}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{{Amory-Mazaudier} et~al.(2017){Amory-Mazaudier}, {Bolaji} and
+  {Doumbia}}]{amorymazaudier_2017}
+\bibinfo{author}{{Amory-Mazaudier}, C.}, \bibinfo{author}{{Bolaji}, O.S.},
+  \bibinfo{author}{{Doumbia}, V.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{On the historical origins of the CEJ, DP2, and Ddyn
+  current systems and their roles in the predictions of ionospheric responses
+  to geomagnetic storms at equatorial latitudes}}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research (Space Physics)}
+  \bibinfo{volume}{122}, \bibinfo{pages}{7827--7833}.
+\newblock \DOIprefix\doi{10.1002/2017JA024132}.
+%Type = Article
+\bibitem[{{Bailey} et~al.(2017){Bailey}, {Halbedl}, {Schattauer}, {R{\"o}mer},
+  {Achleitner}, {Beggan}, {Wesztergom}, {Egli} and {Leonhardt}}]{gic}
+\bibinfo{author}{{Bailey}, R.L.}, \bibinfo{author}{{Halbedl}, T.S.},
+  \bibinfo{author}{{Schattauer}, I.}, \bibinfo{author}{{R{\"o}mer}, A.},
+  \bibinfo{author}{{Achleitner}, G.}, \bibinfo{author}{{Beggan}, C.D.},
+  \bibinfo{author}{{Wesztergom}, V.}, \bibinfo{author}{{Egli}, R.},
+  \bibinfo{author}{{Leonhardt}, R.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{Modelling geomagnetically induced currents in
+  midlatitude Central Europe using a thin-sheet approach}}.
+\newblock \bibinfo{journal}{Annales Geophysicae} \bibinfo{volume}{35},
+  \bibinfo{pages}{751--761}.
+\newblock \DOIprefix\doi{10.5194/angeo-35-751-2017}.
+%Type = Book
+\bibitem[{Baumjohann and Treumann(1999)}]{l_basic_spaceplasmaphysic}
+\bibinfo{author}{Baumjohann, W.}, \bibinfo{author}{Treumann, R.A.},
+  \bibinfo{year}{1999}.
+\newblock \bibinfo{title}{Basic Space Plasma Physics}.
+\newblock \bibinfo{publisher}{Imperial College Press, 57 Shelton Street Covent
+  Garden London WC2H 9HE}.
+%Type = Article
+\bibitem[{{Blanc} and {Caudal}(1985)}]{blanc_caudal}
+\bibinfo{author}{{Blanc}, M.}, \bibinfo{author}{{Caudal}, G.},
+  \bibinfo{year}{1985}.
+\newblock \bibinfo{title}{{The spatial distribution of magnetospheric
+  convection electric fieldsat ionospheric altitudes: a review. II. Theories.}}
+\newblock \bibinfo{journal}{Annales Geophysicae} \bibinfo{volume}{3},
+  \bibinfo{pages}{27--42}.
+%Type = Article
+\bibitem[{{Blanc} and {Richmond}(1980)}]{blanc_ddyn}
+\bibinfo{author}{{Blanc}, M.}, \bibinfo{author}{{Richmond}, A.D.},
+  \bibinfo{year}{1980}.
+\newblock \bibinfo{title}{{The ionospheric disturbance dynamo}}.
+%\newblock \bibinfo{journal}{\jgr} \bibinfo{volume}{85},
+  \bibinfo{pages}{1669--1686}.
+\newblock \DOIprefix\doi{10.1029/JA085iA04p01669}.
+%Type = Article
+\bibitem[{{Bobova} et~al.(1985){Bobova}, {Vladimirskii} and
+  {Pudovkin}}]{Pudovkin}
+\bibinfo{author}{{Bobova}, V.P.}, \bibinfo{author}{{Vladimirskii}, B.M.},
+  \bibinfo{author}{{Pudovkin}, M.I.}, \bibinfo{year}{1985}.
+\newblock \bibinfo{title}{{The presence in the AE index of 160-minute
+  pulsations evidently caused by solar pulsations}}.
+\newblock \bibinfo{journal}{Izvestiya Ordena Trudovogo Krasnogo Znameni
+  Krymskoj Astrofizicheskoj Observatorii} \bibinfo{volume}{71},
+  \bibinfo{pages}{19--25}.
+%Type = Article
+\bibitem[{{Carrillo-Vargas} et~al.(2012){Carrillo-Vargas},
+  {P{\'e}rez-Enr{\'\i}quez}, {Rodr{\'\i}guez-Mart{\'\i}nez},
+  {L{\'o}pez-Montes}, {Casillas-P{\'e}rez} and
+  {Araujo-Pradere}}]{MEXART_iono_dist2}
+\bibinfo{author}{{Carrillo-Vargas}, A.},
+  \bibinfo{author}{{P{\'e}rez-Enr{\'\i}quez}, R.},
+  \bibinfo{author}{{Rodr{\'\i}guez-Mart{\'\i}nez}, M.},
+  \bibinfo{author}{{L{\'o}pez-Montes}, R.},
+  \bibinfo{author}{{Casillas-P{\'e}rez}, G.A.},
+  \bibinfo{author}{{Araujo-Pradere}, E.A.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{Ionospheric disturbances detected by MEXART}}.
+\newblock \bibinfo{journal}{Advances in Space Research} \bibinfo{volume}{49},
+  \bibinfo{pages}{1570--1580}.
+\newblock \DOIprefix\doi{10.1016/j.asr.2011.12.017}.
+%Type = Inproceedings
+\bibitem[{{Corona-Romero} et~al.(2018){Corona-Romero}, {Sanchez-Garcia},
+  {Sergeeva}, {Gonzalez-Esparza}, {Cifuentes-Nava}, {Hernandez-Quintero},
+  {Caccavari}, {Aguilar-Rodriguez}, {Mejía-Ambriz}, {de-la-Luz} and
+  {Gonzalez}}]{P-corona1}
+\bibinfo{author}{{Corona-Romero}, P.}, \bibinfo{author}{{Sanchez-Garcia}, E.},
+  \bibinfo{author}{{Sergeeva}, M.}, \bibinfo{author}{{Gonzalez-Esparza}, J.},
+  \bibinfo{author}{{Cifuentes-Nava}, G.},
+  \bibinfo{author}{{Hernandez-Quintero}, E.}, \bibinfo{author}{{Caccavari},
+  A.}, \bibinfo{author}{{Aguilar-Rodriguez}, E.},
+  \bibinfo{author}{{Mejía-Ambriz}, J.}, \bibinfo{author}{{de-la-Luz}, V.},
+  \bibinfo{author}{{Gonzalez}, L.}, \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{Kmex: the mexican geomagnetic k index}, in:
+  \bibinfo{booktitle}{Proceedings of the II Pan-American Workshopon
+  Geomagnetism}, \bibinfo{address}{Basouras, Brazil}. pp.
+  \bibinfo{pages}{96--100}.
+%Type = Article
+\bibitem[{{Corona-Romero} et~al.(2017){Corona-Romero}, {Sergeeva},
+  {Gonzalez-Esparza}, {Cifuentes-Nava}, {Hernandez-Quintero} and
+  {Caccavari}}]{P-corona2}
+\bibinfo{author}{{Corona-Romero}, P.}, \bibinfo{author}{{Sergeeva}, M.},
+  \bibinfo{author}{{Gonzalez-Esparza}, J.}, \bibinfo{author}{{Cifuentes-Nava},
+  G.}, \bibinfo{author}{{Hernandez-Quintero}, E.},
+  \bibinfo{author}{{Caccavari}, A.~{Sanchez-Garcia}, E.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Mexican geomagnetic k index} , \bibinfo{pages}{1--6}.
+%Type = Book
+\bibitem[{C.T~Russell(2016)}]{l_russell}
+\bibinfo{author}{C.T~Russell, J. G.~Luhman, R.J.S.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{SPACE PHYSICS AN INTRODUCTION}.
+\newblock \bibinfo{publisher}{Cambridge university press. University Pringting
+  House, Cambridge CB2 (BS, United Kingdom}.
+%Type = Article
+\bibitem[{{da Silva Barbosa} et~al.(2015){da Silva Barbosa}, {Hartmann} and
+  {Pinheiro}}]{gic_brazil}
+\bibinfo{author}{{da Silva Barbosa}, C.}, \bibinfo{author}{{Hartmann}, G.A.},
+  \bibinfo{author}{{Pinheiro}, K.J.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{{Numerical modeling of geomagnetically induced
+  currents in a Brazilian transmission line}}.
+\newblock \bibinfo{journal}{Advances in Space Research} \bibinfo{volume}{55},
+  \bibinfo{pages}{1168--1179}.
+\newblock \DOIprefix\doi{10.1016/j.asr.2014.11.008}.
+%Type = Article
+\bibitem[{{Denisenko} et~al.(1992){Denisenko}, {Zamai}, {Kitaev}, {Matveenkov}
+  and {Pivovarov}}]{Denisenko}
+\bibinfo{author}{{Denisenko}, V.V.}, \bibinfo{author}{{Zamai}, S.S.},
+  \bibinfo{author}{{Kitaev}, A.V.}, \bibinfo{author}{{Matveenkov}, I.T.},
+  \bibinfo{author}{{Pivovarov}, V.G.}, \bibinfo{year}{1992}.
+\newblock \bibinfo{title}{{System of ionospheric currents excited by a
+  magnetospheric generator in the boundary layer}}.
+\newblock \bibinfo{journal}{Geomagnetism and Aeronomy} \bibinfo{volume}{32},
+  \bibinfo{pages}{142--145}.
+%Type = Article
+\bibitem[{{Gjerloev}(2012)}]{baseline_Gjerloev}
+\bibinfo{author}{{Gjerloev}, J.W.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{The SuperMAG data processing technique}}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research (Space Physics)}
+  \bibinfo{volume}{117}, \bibinfo{pages}{A09213}.
+\newblock \DOIprefix\doi{10.1029/2012JA017683}.
+%Type = Article
+\bibitem[{{Gonzalez} et~al.(1994){Gonzalez}, {Joselyn}, {Kamide}, {Kroehl},
+  {Rostoker}, {Tsurutani} and {Vasyliunas}}]{gonzalestgm}
+\bibinfo{author}{{Gonzalez}, W.D.}, \bibinfo{author}{{Joselyn}, J.A.},
+  \bibinfo{author}{{Kamide}, Y.}, \bibinfo{author}{{Kroehl}, H.W.},
+  \bibinfo{author}{{Rostoker}, G.}, \bibinfo{author}{{Tsurutani}, B.T.},
+  \bibinfo{author}{{Vasyliunas}, V.M.}, \bibinfo{year}{1994}.
+\newblock \bibinfo{title}{{What is a geomagnetic storm?}}
+%\newblock \bibinfo{journal}{\jgr} \bibinfo{volume}{99},
+  \bibinfo{pages}{5771--5792}.
+\newblock \DOIprefix\doi{10.1029/93JA02867}.
+%Type = Inproceedings
+\bibitem[{{Gonzalez-Esparza} et~al.(2005){Gonzalez-Esparza}, {Carrillo},
+  {Andrade}, {Jeyakumar}, {Ananthakrishnan}, {Praveenkumar},
+  {Sankarasubramanian}, {Sureshkumar}, {Sierra}, {Vazquez}, {Perez-Enriquez}
+  and {Kurtz}}]{MEXART2005}
+\bibinfo{author}{{Gonzalez-Esparza}, A.}, \bibinfo{author}{{Carrillo}, A.},
+  \bibinfo{author}{{Andrade}, E.}, \bibinfo{author}{{Jeyakumar}, S.},
+  \bibinfo{author}{{Ananthakrishnan}, S.}, \bibinfo{author}{{Praveenkumar},
+  A.}, \bibinfo{author}{{Sankarasubramanian}, G.},
+  \bibinfo{author}{{Sureshkumar}, S.}, \bibinfo{author}{{Sierra}, P.},
+  \bibinfo{author}{{Vazquez}, S.}, \bibinfo{author}{{Perez-Enriquez}, R.},
+  \bibinfo{author}{{Kurtz}, S.}, \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{{MEXART Measurements of Radio Sources. Interplanetary
+  Scintillation Array in Mexico}}, in: \bibinfo{booktitle}{AGU Fall Meeting
+  Abstracts}, pp. \bibinfo{pages}{SH51C--1218}.
+%Type = Article
+\bibitem[{Gonzalez-Esparza et~al.(2017)Gonzalez-Esparza, De~la Luz,
+  Corona-Romero, Mejia-Ambriz, Gonzalez, Sergeeva, Romero-Hernandez and
+  Aguilar-Rodriguez}]{sciesmex_art}
+\bibinfo{author}{Gonzalez-Esparza, J.A.}, \bibinfo{author}{De~la Luz, V.},
+  \bibinfo{author}{Corona-Romero, P.}, \bibinfo{author}{Mejia-Ambriz, J.C.},
+  \bibinfo{author}{Gonzalez, L.X.}, \bibinfo{author}{Sergeeva, M.A.},
+  \bibinfo{author}{Romero-Hernandez, E.}, \bibinfo{author}{Aguilar-Rodriguez,
+  E.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{Mexican space weather service (sciesmex)}.
+\newblock \bibinfo{journal}{Space Weather} \bibinfo{volume}{15},
+  \bibinfo{pages}{3--11}.
+\newblock \URLprefix
+  \url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016SW001496},
+  \DOIprefix\doi{https://doi.org/10.1002/2016SW001496},
+  \href{http://arxiv.org/abs/https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2016SW001496}.
+%Type = Article
+\bibitem[{{Hejda} and {Bochn{\'\i}{\v{c}}ek}(2005)}]{gic_czech}
+\bibinfo{author}{{Hejda}, P.}, \bibinfo{author}{{Bochn{\'\i}{\v{c}}ek}, J.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{{Geomagnetically induced pipe-to-soil voltages in the
+  Czech oil pipelines during October-November 2003}}.
+\newblock \bibinfo{journal}{Annales Geophysicae} \bibinfo{volume}{23},
+  \bibinfo{pages}{3089--3093}.
+\newblock \DOIprefix\doi{10.5194/angeo-23-3089-2005}.
+%Type = Inproceedings
+\bibitem[{{Heppner}(1972a)}]{Hepner_b}
+\bibinfo{author}{{Heppner}, J.P.}, \bibinfo{year}{1972}a.
+\newblock \bibinfo{title}{{Electric Fields in the Magnetosphere}}, in:
+  \bibinfo{editor}{{Dyer}, E.R.} (Ed.), \bibinfo{booktitle}{Critical Problems
+  of Magnetospheric Physics}, p. \bibinfo{pages}{107}.
+%Type = Article
+\bibitem[{{Heppner}(1972b)}]{Hepner_a}
+\bibinfo{author}{{Heppner}, J.P.}, \bibinfo{year}{1972}b.
+\newblock \bibinfo{title}{{Polar-cap electric field distributions related to
+  the interplanetary magnetic field direction}}.
+%\newblock \bibinfo{journal}{\jgr} \bibinfo{volume}{77},
+  \bibinfo{pages}{4877--4887}.
+\newblock \DOIprefix\doi{10.1029/JA077i025p04877}.
+%Type = Article
+\bibitem[{{Kikuchi} and {Hashimoto}(2016)}]{dp2_diag}
+\bibinfo{author}{{Kikuchi}, T.}, \bibinfo{author}{{Hashimoto}, K.K.},
+  \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{Transmission of the electric fields to the low
+  latitude ionosphere in the magnetosphere-ionosphere current circuit}}.
+\newblock \bibinfo{journal}{Geoscience Letters} \bibinfo{volume}{3},
+  \bibinfo{pages}{4}.
+\newblock \DOIprefix\doi{10.1186/s40562-016-0035-6}.
+%Type = Book
+\bibitem[{Knecht and B.M(1985)}]{l_handbook_geof_sw_Geom_field}
+\bibinfo{author}{Knecht, D.}, \bibinfo{author}{B.M, .S.}, \bibinfo{year}{1985}.
+\newblock \bibinfo{title}{HANDBOOK OF GEOPHYSICS AND THE SPACE ENVIROMENT,
+  chapter 4, THE GEOMAGNETIC FIELD}.
+\newblock \bibinfo{publisher}{ed by A. S. Jursa, Boston: Air Force Geophysics
+  Laborator}.
+%Type = Article
+\bibitem[{{Le Huy} and {Amory-Mazaudier}(2005)}]{ddyn2005}
+\bibinfo{author}{{Le Huy}, M.}, \bibinfo{author}{{Amory-Mazaudier}, C.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{{Magnetic signature of the ionospheric disturbance
+  dynamo at equatorial latitudes: ``D$_{dyn}$''}}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research (Space Physics)}
+  \bibinfo{volume}{110}, \bibinfo{pages}{A10301}.
+\newblock \DOIprefix\doi{10.1029/2004JA010578}.
+%Type = Article
+\bibitem[{{L{\'o}pez-Montes} et~al.(2012){L{\'o}pez-Montes},
+  {P{\'e}rez-Enr{\'\i}quez} and {Araujo-Pradere}}]{lopez-montes}
+\bibinfo{author}{{L{\'o}pez-Montes}, R.},
+  \bibinfo{author}{{P{\'e}rez-Enr{\'\i}quez}, R.},
+  \bibinfo{author}{{Araujo-Pradere}, E.A.}, \bibinfo{year}{2012}.
+\newblock \bibinfo{title}{{The impact of large solar events on the total
+  electron content of the ionosphere at mid latitudes}}.
+\newblock \bibinfo{journal}{Advances in Space Research} \bibinfo{volume}{49},
+  \bibinfo{pages}{1167--1179}.
+\newblock \DOIprefix\doi{10.1016/j.asr.2012.01.008}.
+%Type = Article
+\bibitem[{Martínez-Bretón~L. et~al.(2016)Martínez-Bretón~L., Ortega and
+  Hernandez-Quintero}]{lenica}
+\bibinfo{author}{Martínez-Bretón~L., J.}, \bibinfo{author}{Ortega, B.M.},
+  \bibinfo{author}{Hernandez-Quintero, J.E.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{Relationship between the minima of the horizontal
+  magnetic component measured in mexico and the dst and sym-h indices for
+  geomagnetic storms with dst $\leq 100$ nT during the descending phase of solar cycle 23}.
+\newblock \bibinfo{journal}{Geofísica Internacional} \bibinfo{volume}{55},
+  \bibinfo{pages}{155--164}.
+%Type = Article
+\bibitem[{{Mayaud}(1980)}]{mayaud1980}
+\bibinfo{author}{{Mayaud}, P.N.}, \bibinfo{year}{1980}.
+\newblock \bibinfo{title}{{Derivation, Meaning, and Use of Geomagnetic
+  Indices}}.
+\newblock \bibinfo{journal}{Geophysical Monograph Series} \bibinfo{volume}{22},
+  \bibinfo{pages}{607}.
+\newblock \DOIprefix\doi{10.1029/GM022}.
+%Type = Article
+\bibitem[{{Merline Matamba} et~al.(2016){Merline Matamba}, {Habarulema} and
+  {Bure{\v{s}}ov{\'a}}}]{iono-resp2016}
+\bibinfo{author}{{Merline Matamba}, T.}, \bibinfo{author}{{Habarulema}, J.B.},
+  \bibinfo{author}{{Bure{\v{s}}ov{\'a}}, D.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{Midlatitude ionospheric changes to four great
+  geomagnetic storms of solar cycle 23 in Southern and Northern Hemispheres}}.
+\newblock \bibinfo{journal}{Space Weather} \bibinfo{volume}{14},
+  \bibinfo{pages}{1155--1171}.
+\newblock \DOIprefix\doi{10.1002/2016SW001516}.
+%Type = Article
+\bibitem[{{Nishida}(1966)}]{nishida_66_knee}
+\bibinfo{author}{{Nishida}, A.}, \bibinfo{year}{1966}.
+\newblock \bibinfo{title}{{Formation of plasmapause, or magnetospheric plasma
+  knee, by the combined action of magnetospheric convection and plasma escape
+  from the tail}}.
+%\newblock \bibinfo{journal}{\jgr} \bibinfo{volume}{71},
+  \bibinfo{pages}{5669--5679}.
+\newblock \DOIprefix\doi{10.1029/JZ071i023p05669}.
+%Type = Article
+\bibitem[{{Nishida}(1968a)}]{nishida_68_coherence}
+\bibinfo{author}{{Nishida}, A.}, \bibinfo{year}{1968}a.
+\newblock \bibinfo{title}{{Coherence of geomagnetic DP 2 fluctuations with
+  interplanetary magnetic variations}}.
+%\newblock \bibinfo{journal}{\jgr} \bibinfo{volume}{73},
+  \bibinfo{pages}{5549--5559}.
+\newblock \DOIprefix\doi{10.1029/JA073i017p05549}.
+%Type = Article
+\bibitem[{{Nishida}(1968b)}]{nishida_68_fluctuations}
+\bibinfo{author}{{Nishida}, A.}, \bibinfo{year}{1968}b.
+\newblock \bibinfo{title}{{Geomagnetic D$_{p}$ 2 fluctuations and associated
+  magnetospheric phenomena}}.
+%\newblock \bibinfo{journal}{\jgr} \bibinfo{volume}{73},
+  \bibinfo{pages}{1795--1803}.
+\newblock \DOIprefix\doi{10.1029/JA073i005p01795}.
+%Type = Article
+\bibitem[{{Obayashi} and {Nishida}(1968)}]{nishida_andobayashi_67}
+\bibinfo{author}{{Obayashi}, T.}, \bibinfo{author}{{Nishida}, A.},
+  \bibinfo{year}{1968}.
+\newblock \bibinfo{title}{{Large-Scale Electric Field in the Magnetosphere}}.
+%\newblock \bibinfo{journal}{\ssr} \bibinfo{volume}{8}, \bibinfo{pages}{3--31}.
+\newblock \DOIprefix\doi{10.1007/BF00362569}.
+%Type = Inproceedings
+\bibitem[{{P{\'e}rez-Enr{\'\i}quez} and {Kotsarenko}(2003)}]{MEXART2003}
+\bibinfo{author}{{P{\'e}rez-Enr{\'\i}quez}, R.}, \bibinfo{author}{{Kotsarenko},
+  A.}, \bibinfo{year}{2003}.
+\newblock \bibinfo{title}{{IPS data of the Mexican Array Radio Telescope
+  (MEXART) corrected for ionospheric scintillation and geomagnetic activity}},
+  in: \bibinfo{booktitle}{EGS - AGU - EUG Joint Assembly}, p.
+  \bibinfo{pages}{2923}.
+%Type = Article
+\bibitem[{Pirjola(2000)}]{gic_intro}
+\bibinfo{author}{Pirjola, R.}, \bibinfo{year}{2000}.
+\newblock \bibinfo{title}{Geomagnetically induced currents during magnetic
+  storms}.
+\newblock \bibinfo{journal}{IEEE Transactions on Plasma Science}
+  \bibinfo{volume}{28}, \bibinfo{pages}{1867--1873}.
+\newblock \DOIprefix\doi{10.1109/27.902215}.
+%Type = Book
+\bibitem[{{Rishbeth} and {Garriott}(1969)}]{1969intro_to_iono_p}
+\bibinfo{author}{{Rishbeth}, H.}, \bibinfo{author}{{Garriott}, O.K.},
+  \bibinfo{year}{1969}.
+\newblock \bibinfo{title}{{Introduction to ionospheric physics}}.
+%Type = Inproceedings
+\bibitem[{{Rodriguez-Martinez} et~al.(2011){Rodriguez-Martinez},
+  {Perez-Enriquez}, {Carrillo-Vargas}, {Lopez-Montes}, {Araujo-Pradere},
+  {Casillas-Perez} and {Lopez Cruz-Abeyro}}]{MEXART_iono_dist}
+\bibinfo{author}{{Rodriguez-Martinez}, M.}, \bibinfo{author}{{Perez-Enriquez},
+  R.}, \bibinfo{author}{{Carrillo-Vargas}, A.},
+  \bibinfo{author}{{Lopez-Montes}, R.}, \bibinfo{author}{{Araujo-Pradere},
+  E.A.}, \bibinfo{author}{{Casillas-Perez}, G.}, \bibinfo{author}{{Lopez
+  Cruz-Abeyro}, J.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{{Ionospheric Disturbance Effects on IPS signals from
+  MEXART}}, in: \bibinfo{booktitle}{AGU Fall Meeting Abstracts}, pp.
+  \bibinfo{pages}{SH13B--1969}.
+%Type = Article
+\bibitem[{Rodriguez-Martinez et~al.(2011)Rodriguez-Martinez, Perez-Enriquez,
+  Carrillo-Vargas, López-Montes, Araujo-Pradere, Casillas and Lopez
+  Cruz-Abeyro}]{mario_rodriguez2011}
+\bibinfo{author}{Rodriguez-Martinez, M.}, \bibinfo{author}{Perez-Enriquez, R.},
+  \bibinfo{author}{Carrillo-Vargas, A.}, \bibinfo{author}{López-Montes, R.},
+  \bibinfo{author}{Araujo-Pradere, E.}, \bibinfo{author}{Casillas, G.},
+  \bibinfo{author}{Lopez Cruz-Abeyro, J.}, \bibinfo{year}{2011}.
+\newblock \bibinfo{title}{Ionospheric disturbance effects on ips signals from
+  mexart}.
+\newblock \bibinfo{journal}{AGU Fall Meeting Abstracts} ,
+  \bibinfo{pages}{1969--}.
+%Type = Article
+\bibitem[{Rodriguez-Martinez et~al.(2014)Rodriguez-Martinez, Pérez-Enríquez,
+  Carrillo-Vargas, López-Montes, Araujo-Pradere, Casillas and Lopez
+  Cruz-Abeyro}]{mario_rodriguez2014}
+\bibinfo{author}{Rodriguez-Martinez, M.}, \bibinfo{author}{Pérez-Enríquez,
+  H.}, \bibinfo{author}{Carrillo-Vargas, A.}, \bibinfo{author}{López-Montes,
+  R.}, \bibinfo{author}{Araujo-Pradere, E.}, \bibinfo{author}{Casillas, G.},
+  \bibinfo{author}{Lopez Cruz-Abeyro, J.}, \bibinfo{year}{2014}.
+\newblock \bibinfo{title}{Ionospheric disturbances and their impact on ips
+  using mexart observations}.
+\newblock \bibinfo{journal}{Solar Physics} \bibinfo{volume}{289}.
+\newblock \DOIprefix\doi{10.1007/s11207-014-0496-8}.
+%Type = Article
+\bibitem[{{Romero-Hernandez} et~al.(2017){Romero-Hernandez},
+  {Gonzalez-Esparza}, {Rodriguez-Martinez}, {Sergeeva}, {Aguilar-Rodriguez},
+  {Mejia-Ambriz} and {De la Luz}}]{esmeralda}
+\bibinfo{author}{{Romero-Hernandez}, E.}, \bibinfo{author}{{Gonzalez-Esparza},
+  J.A.}, \bibinfo{author}{{Rodriguez-Martinez}, M.},
+  \bibinfo{author}{{Sergeeva}, M.A.}, \bibinfo{author}{{Aguilar-Rodriguez},
+  E.}, \bibinfo{author}{{Mejia-Ambriz}, J.C.}, \bibinfo{author}{{De la Luz},
+  V.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{Study of ionospheric disturbances over Mexico
+  associated with transient space weather events}}.
+\newblock \bibinfo{journal}{Advances in Space Research} \bibinfo{volume}{60},
+  \bibinfo{pages}{1838--1849}.
+\newblock \DOIprefix\doi{10.1016/j.asr.2017.06.042}.
+%Type = Article
+\bibitem[{{Schrijver}(2015)}]{schrijver2015}
+\bibinfo{author}{{Schrijver}, C.J.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{{Socio-Economic Hazards and Impacts of Space Weather:
+  The Important Range Between Mild and Extreme}}.
+\newblock \bibinfo{journal}{Space Weather} \bibinfo{volume}{13},
+  \bibinfo{pages}{524--528}.
+\newblock \DOIprefix\doi{10.1002/2015SW001252},
+  \href{http://arxiv.org/abs/1507.08730}{\tt arXiv:1507.08730}.
+%Type = Article
+\bibitem[{{Sergeeva} et~al.(2019){Sergeeva}, {Gonzalez-Esparza},
+  {Blagoveshchensky}, {Maltseva}, {Chernov}, {Corona-Romero}, {De la Luz},
+  {Mejia-Ambriz}, {Gonzalez}, {Romero-Hernandez}, {Rodriguez-Martinez},
+  {Aguilar-Rodriguez}, {Andrade}, {Villanueva} and
+  {Gatica-Acevedo}}]{dramaria7}
+\bibinfo{author}{{Sergeeva}, M.A.}, \bibinfo{author}{{Gonzalez-Esparza}, J.A.},
+  \bibinfo{author}{{Blagoveshchensky}, D.V.}, \bibinfo{author}{{Maltseva},
+  O.A.}, \bibinfo{author}{{Chernov}, A.G.}, \bibinfo{author}{{Corona-Romero},
+  P.}, \bibinfo{author}{{De la Luz}, V.}, \bibinfo{author}{{Mejia-Ambriz},
+  J.C.}, \bibinfo{author}{{Gonzalez}, L.X.},
+  \bibinfo{author}{{Romero-Hernandez}, E.},
+  \bibinfo{author}{{Rodriguez-Martinez}, M.},
+  \bibinfo{author}{{Aguilar-Rodriguez}, E.}, \bibinfo{author}{{Andrade}, E.},
+  \bibinfo{author}{{Villanueva}, P.}, \bibinfo{author}{{Gatica-Acevedo}, V.J.},
+  \bibinfo{year}{2019}.
+\newblock \bibinfo{title}{{First observations of oblique ionospheric sounding
+  chirp signal in Mexico}}.
+\newblock \bibinfo{journal}{Results in Physics} \bibinfo{volume}{12},
+  \bibinfo{pages}{1002--1003}.
+\newblock \DOIprefix\doi{10.1016/j.rinp.2018.12.077}.
+%Type = Article
+\bibitem[{{Sergeeva} et~al.(2017){Sergeeva}, {Maltseva}, {Gonzalez-Esparza},
+  {De la Luz} and {Corona-Romero}}]{dramaria_1}
+\bibinfo{author}{{Sergeeva}, M.A.}, \bibinfo{author}{{Maltseva}, O.A.},
+  \bibinfo{author}{{Gonzalez-Esparza}, J.A.}, \bibinfo{author}{{De la Luz},
+  V.}, \bibinfo{author}{{Corona-Romero}, P.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{Features of TEC behaviour over the low-latitude
+  North-American region during the period of medium solar activity}}.
+\newblock \bibinfo{journal}{Advances in Space Research} \bibinfo{volume}{60},
+  \bibinfo{pages}{1594--1605}.
+\newblock \DOIprefix\doi{10.1016/j.asr.2017.06.021}.
+%Type = Article
+\bibitem[{{van de Kamp}(2013)}]{vanKampt}
+\bibinfo{author}{{van de Kamp}, M.}, \bibinfo{year}{2013}.
+\newblock \bibinfo{title}{{Harmonic quiet-day curves as magnetometer baselines
+  for ionospheric current analyses}}.
+\newblock \bibinfo{journal}{Geoscientific Instrumentation, Methods and Data
+  Systems} \bibinfo{volume}{2}, \bibinfo{pages}{289--304}.
+\newblock \DOIprefix\doi{10.5194/gi-2-289-2013}.
+%Type = Article
+\bibitem[{{Vodyannikov} et~al.(2006){Vodyannikov}, {Gordienko}, {Nechaev},
+  {Sokolova}, {Khomutov} and {Yakovets}}]{gic_2}
+\bibinfo{author}{{Vodyannikov}, V.V.}, \bibinfo{author}{{Gordienko}, G.I.},
+  \bibinfo{author}{{Nechaev}, S.A.}, \bibinfo{author}{{Sokolova}, O.I.},
+  \bibinfo{author}{{Khomutov}, S.Y.}, \bibinfo{author}{{Yakovets}, A.F.},
+  \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{{Geomagnetically induced currents in power lines
+  according to data on geomagnetic variations}}.
+\newblock \bibinfo{journal}{Geomagnetism and Aeronomy} \bibinfo{volume}{46},
+  \bibinfo{pages}{809--813}.
+\newblock \DOIprefix\doi{10.1134/S0016793206060168}.
+%Type = Article
+\bibitem[{{Wei} et~al.(2015){Wei}, {Zhao}, {Li} and {Wan}}]{dp2PPEF}
+\bibinfo{author}{{Wei}, Y.}, \bibinfo{author}{{Zhao}, B.},
+  \bibinfo{author}{{Li}, G.}, \bibinfo{author}{{Wan}, W.},
+  \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{{Electric field penetration into Earth's ionosphere:
+  a brief review for 2000{\textendash}2013}}.
+\newblock \bibinfo{journal}{Science Bulletin} \bibinfo{volume}{60},
+  \bibinfo{pages}{748--761}.
+\newblock \DOIprefix\doi{10.1007/s11434-015-0749-4}.
+%Type = Article
+\bibitem[{{Younas} et~al.(2020){Younas}, {Amory-Mazaudier}, {Khan} and
+  {Fleury}}]{amory2020_filtros}
+\bibinfo{author}{{Younas}, W.}, \bibinfo{author}{{Amory-Mazaudier}, C.},
+  \bibinfo{author}{{Khan}, M.}, \bibinfo{author}{{Fleury}, R.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{{Ionospheric and Magnetic Signatures of a Space
+  Weather Event on 25-29 August 2018: CME and HSSWs}}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research (Space Physics)}
+  \bibinfo{volume}{125}, \bibinfo{pages}{e27981}.
+\newblock \DOIprefix\doi{10.1029/2020JA027981}.
+%Type = Article
+\bibitem[{{Zaka} et~al.(2009){Zaka}, {Kobea}, {Assamoi}, {Obrou}, {Doumbia},
+  {Boka}, {Adohi} and {Mene}}]{angeoddyn}
+\bibinfo{author}{{Zaka}, K.Z.}, \bibinfo{author}{{Kobea}, A.T.},
+  \bibinfo{author}{{Assamoi}, P.}, \bibinfo{author}{{Obrou}, O.K.},
+  \bibinfo{author}{{Doumbia}, V.}, \bibinfo{author}{{Boka}, K.},
+  \bibinfo{author}{{Adohi}, B.J.P.}, \bibinfo{author}{{Mene}, N.M.},
+  \bibinfo{year}{2009}.
+\newblock \bibinfo{title}{{Latitudinal profile of the ionospheric disturbance
+  dynamo magnetic signature: comparison with the DP2 magnetic disturbance}}.
+\newblock \bibinfo{journal}{Annales Geophysicae} \bibinfo{volume}{27},
+  \bibinfo{pages}{3523--3536}.
+\newblock \DOIprefix\doi{10.5194/angeo-27-3523-2009}.
+
+\end{thebibliography}
