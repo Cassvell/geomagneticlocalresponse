@@ -1,4 +1,4 @@
-\begin{thebibliography}{45}
+\begin{thebibliography}{50}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \providecommand{\url}[1]{\texttt{#1}}
 \providecommand{\href}[2]{#2}
@@ -11,6 +11,19 @@
 \providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
 \providecommand{\bibinfo}[2]{#2}
 \ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{{Akala} et~al.(2020){Akala}, {Oyeyemi}, {Amaechi}, {Radicella},
+  {Nava} and {Amory-Mazaudier}}]{ionos1}
+\bibinfo{author}{{Akala}, A.O.}, \bibinfo{author}{{Oyeyemi}, E.O.},
+  \bibinfo{author}{{Amaechi}, P.O.}, \bibinfo{author}{{Radicella}, S.M.},
+  \bibinfo{author}{{Nava}, B.}, \bibinfo{author}{{Amory-Mazaudier}, C.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{{Longitudinal Responses of the
+  Equatorial/Low-Latitude Ionosphere Over the Oceanic Regions to Geomagnetic
+  Storms of May and September 2017}}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research (Space Physics)}
+  \bibinfo{volume}{125}, \bibinfo{pages}{e27963}.
+\newblock \DOIprefix\doi{10.1029/2020JA027963}.
 %Type = Article
 \bibitem[{{Amory-Mazaudier} et~al.(2017){Amory-Mazaudier}, {Bolaji} and
   {Doumbia}}]{amorymazaudier_2017}
@@ -55,8 +68,8 @@
 \bibinfo{author}{{Blanc}, M.}, \bibinfo{author}{{Richmond}, A.D.},
   \bibinfo{year}{1980}.
 \newblock \bibinfo{title}{{The ionospheric disturbance dynamo}}.
-%\newblock \bibinfo{journal}{\jgr} \bibinfo{volume}{85},
-  \bibinfo{pages}{1669--1686}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research}
+  \bibinfo{volume}{85}, \bibinfo{pages}{1669--1686}.
 \newblock \DOIprefix\doi{10.1029/JA085iA04p01669}.
 %Type = Article
 \bibitem[{{Bobova} et~al.(1985){Bobova}, {Vladimirskii} and
@@ -83,6 +96,23 @@
 \newblock \bibinfo{journal}{Advances in Space Research} \bibinfo{volume}{49},
   \bibinfo{pages}{1570--1580}.
 \newblock \DOIprefix\doi{10.1016/j.asr.2011.12.017}.
+%Type = Article
+\bibitem[{Corona-Romero et~al.(2024)Corona-Romero, Gonzalez-Esparza,
+  Villanueva-Hernandez, Andrade-Mascote, Castellanos-Velazco, Espinosa-Jimenez
+  and Sergeeva}]{corona2024}
+\bibinfo{author}{Corona-Romero, P.}, \bibinfo{author}{Gonzalez-Esparza, J.},
+  \bibinfo{author}{Villanueva-Hernandez, P.}, \bibinfo{author}{Andrade-Mascote,
+  E.}, \bibinfo{author}{Castellanos-Velazco, C.},
+  \bibinfo{author}{Espinosa-Jimenez, A.}, \bibinfo{author}{Sergeeva, M.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{The geomagnetic stations network of mexico (regmex):
+  The initial steps towards a real-time monitoring of geomagnetic activity in
+  mexico}.
+\newblock \bibinfo{journal}{Journal of Atmospheric and Solar-Terrestrial
+  Physics} \bibinfo{volume}{256}, \bibinfo{pages}{106204}.
+\newblock \URLprefix
+  \url{https://www.sciencedirect.com/science/article/pii/S1364682624000324},
+  \DOIprefix\doi{https://doi.org/10.1016/j.jastp.2024.106204}.
 %Type = Inproceedings
 \bibitem[{{Corona-Romero} et~al.(2018){Corona-Romero}, {Sanchez-Garcia},
   {Sergeeva}, {Gonzalez-Esparza}, {Cifuentes-Nava}, {Hernandez-Quintero},
@@ -149,8 +179,8 @@
   \bibinfo{author}{{Rostoker}, G.}, \bibinfo{author}{{Tsurutani}, B.T.},
   \bibinfo{author}{{Vasyliunas}, V.M.}, \bibinfo{year}{1994}.
 \newblock \bibinfo{title}{{What is a geomagnetic storm?}}
-%\newblock \bibinfo{journal}{\jgr} \bibinfo{volume}{99},
-  \bibinfo{pages}{5771--5792}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research}
+  \bibinfo{volume}{99}, \bibinfo{pages}{5771--5792}.
 \newblock \DOIprefix\doi{10.1029/93JA02867}.
 %Type = Inproceedings
 \bibitem[{{Gonzalez-Esparza} et~al.(2005){Gonzalez-Esparza}, {Carrillo},
@@ -181,8 +211,7 @@
   \bibinfo{pages}{3--11}.
 \newblock \URLprefix
   \url{https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2016SW001496},
-  \DOIprefix\doi{https://doi.org/10.1002/2016SW001496},
-  \href{http://arxiv.org/abs/https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2016SW001496}.
+  \DOIprefix\doi{https://doi.org/10.1002/2016SW001496}.
 %Type = Article
 \bibitem[{{Hejda} and {Bochn{\'\i}{\v{c}}ek}(2005)}]{gic_czech}
 \bibinfo{author}{{Hejda}, P.}, \bibinfo{author}{{Bochn{\'\i}{\v{c}}ek}, J.},
@@ -203,8 +232,8 @@
 \bibinfo{author}{{Heppner}, J.P.}, \bibinfo{year}{1972}b.
 \newblock \bibinfo{title}{{Polar-cap electric field distributions related to
   the interplanetary magnetic field direction}}.
-%\newblock \bibinfo{journal}{\jgr} \bibinfo{volume}{77},
-  \bibinfo{pages}{4877--4887}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research}
+  \bibinfo{volume}{77}, \bibinfo{pages}{4877--4887}.
 \newblock \DOIprefix\doi{10.1029/JA077i025p04877}.
 %Type = Article
 \bibitem[{{Kikuchi} and {Hashimoto}(2016)}]{dp2_diag}
@@ -249,7 +278,8 @@
   \bibinfo{author}{Hernandez-Quintero, J.E.}, \bibinfo{year}{2016}.
 \newblock \bibinfo{title}{Relationship between the minima of the horizontal
   magnetic component measured in mexico and the dst and sym-h indices for
-  geomagnetic storms with dst $\leq 100$ nT during the descending phase of solar cycle 23}.
+  geomagnetic storms with dst≤ -100nt during the descending phase of solar
+  cycle 23}.
 \newblock \bibinfo{journal}{Geofísica Internacional} \bibinfo{volume}{55},
   \bibinfo{pages}{155--164}.
 %Type = Article
@@ -276,31 +306,32 @@
 \newblock \bibinfo{title}{{Formation of plasmapause, or magnetospheric plasma
   knee, by the combined action of magnetospheric convection and plasma escape
   from the tail}}.
-%\newblock \bibinfo{journal}{\jgr} \bibinfo{volume}{71},
-  \bibinfo{pages}{5669--5679}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research}
+  \bibinfo{volume}{71}, \bibinfo{pages}{5669--5679}.
 \newblock \DOIprefix\doi{10.1029/JZ071i023p05669}.
 %Type = Article
 \bibitem[{{Nishida}(1968a)}]{nishida_68_coherence}
 \bibinfo{author}{{Nishida}, A.}, \bibinfo{year}{1968}a.
 \newblock \bibinfo{title}{{Coherence of geomagnetic DP 2 fluctuations with
   interplanetary magnetic variations}}.
-%\newblock \bibinfo{journal}{\jgr} \bibinfo{volume}{73},
-  \bibinfo{pages}{5549--5559}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research}
+  \bibinfo{volume}{73}, \bibinfo{pages}{5549--5559}.
 \newblock \DOIprefix\doi{10.1029/JA073i017p05549}.
 %Type = Article
 \bibitem[{{Nishida}(1968b)}]{nishida_68_fluctuations}
 \bibinfo{author}{{Nishida}, A.}, \bibinfo{year}{1968}b.
 \newblock \bibinfo{title}{{Geomagnetic D$_{p}$ 2 fluctuations and associated
   magnetospheric phenomena}}.
-%\newblock \bibinfo{journal}{\jgr} \bibinfo{volume}{73},
-  \bibinfo{pages}{1795--1803}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research}
+  \bibinfo{volume}{73}, \bibinfo{pages}{1795--1803}.
 \newblock \DOIprefix\doi{10.1029/JA073i005p01795}.
 %Type = Article
 \bibitem[{{Obayashi} and {Nishida}(1968)}]{nishida_andobayashi_67}
 \bibinfo{author}{{Obayashi}, T.}, \bibinfo{author}{{Nishida}, A.},
   \bibinfo{year}{1968}.
 \newblock \bibinfo{title}{{Large-Scale Electric Field in the Magnetosphere}}.
-%\newblock \bibinfo{journal}{\ssr} \bibinfo{volume}{8}, \bibinfo{pages}{3--31}.
+\newblock \bibinfo{journal}{Space Science Reviews} \bibinfo{volume}{8},
+  \bibinfo{pages}{3--31}.
 \newblock \DOIprefix\doi{10.1007/BF00362569}.
 %Type = Inproceedings
 \bibitem[{{P{\'e}rez-Enr{\'\i}quez} and {Kotsarenko}(2003)}]{MEXART2003}
@@ -383,6 +414,16 @@
 \newblock \DOIprefix\doi{10.1002/2015SW001252},
   \href{http://arxiv.org/abs/1507.08730}{\tt arXiv:1507.08730}.
 %Type = Article
+\bibitem[{Sergeeva et~al.(2020)Sergeeva, Kalishin, Maltseva, Blagoveshchensky,
+  Gonzalez-Esparza, Corona-Romero and Gatica~Acevedo}]{dramaria_13}
+\bibinfo{author}{Sergeeva, M.}, \bibinfo{author}{Kalishin, A.},
+  \bibinfo{author}{Maltseva, O.}, \bibinfo{author}{Blagoveshchensky, D.},
+  \bibinfo{author}{Gonzalez-Esparza, A.}, \bibinfo{author}{Corona-Romero, P.},
+  \bibinfo{author}{Gatica~Acevedo, V.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Possibility of signal reflection from the northern
+  crest of eia: case study} ,
+  \bibinfo{pages}{1--4}\DOIprefix\doi{10.23919/EuCAP48036.2020.9135786}.
+%Type = Article
 \bibitem[{{Sergeeva} et~al.(2019){Sergeeva}, {Gonzalez-Esparza},
   {Blagoveshchensky}, {Maltseva}, {Chernov}, {Corona-Romero}, {De la Luz},
   {Mejia-Ambriz}, {Gonzalez}, {Romero-Hernandez}, {Rodriguez-Martinez},
@@ -423,6 +464,22 @@
   Systems} \bibinfo{volume}{2}, \bibinfo{pages}{289--304}.
 \newblock \DOIprefix\doi{10.5194/gi-2-289-2013}.
 %Type = Article
+\bibitem[{{Vankadara} et~al.(2022){Vankadara}, {Panda}, {Amory-Mazaudier},
+  {Fleury}, {Devananboyina}, {Pant}, {Jamjareegulgarn}, {Haq}, {Okoh} and
+  {Seemala}}]{signatures_of_eq_plasmabub}
+\bibinfo{author}{{Vankadara}, R.K.}, \bibinfo{author}{{Panda}, S.K.},
+  \bibinfo{author}{{Amory-Mazaudier}, C.}, \bibinfo{author}{{Fleury}, R.},
+  \bibinfo{author}{{Devananboyina}, V.R.}, \bibinfo{author}{{Pant}, T.K.},
+  \bibinfo{author}{{Jamjareegulgarn}, P.}, \bibinfo{author}{{Haq}, M.A.},
+  \bibinfo{author}{{Okoh}, D.}, \bibinfo{author}{{Seemala}, G.K.},
+  \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{{Signatures of Equatorial Plasma Bubbles and
+  Ionospheric Scintillations from Magnetometer and GNSS Observations in the
+  Indian Longitudes during the Space Weather Events of Early September 2017}}.
+\newblock \bibinfo{journal}{Remote Sensing} \bibinfo{volume}{14},
+  \bibinfo{pages}{652}.
+\newblock \DOIprefix\doi{10.3390/rs14030652}.
+%Type = Article
 \bibitem[{{Vodyannikov} et~al.(2006){Vodyannikov}, {Gordienko}, {Nechaev},
   {Sokolova}, {Khomutov} and {Yakovets}}]{gic_2}
 \bibinfo{author}{{Vodyannikov}, V.V.}, \bibinfo{author}{{Gordienko}, G.I.},
@@ -444,6 +501,16 @@
 \newblock \bibinfo{journal}{Science Bulletin} \bibinfo{volume}{60},
   \bibinfo{pages}{748--761}.
 \newblock \DOIprefix\doi{10.1007/s11434-015-0749-4}.
+%Type = Article
+\bibitem[{{Yamazaki} et~al.(2016){Yamazaki}, {H{\"a}usler} and
+  {Wild}}]{mid-lat_ionocurrents}
+\bibinfo{author}{{Yamazaki}, Y.}, \bibinfo{author}{{H{\"a}usler}, K.},
+  \bibinfo{author}{{Wild}, J.A.}, \bibinfo{year}{2016}.
+\newblock \bibinfo{title}{{Day-to-day variability of midlatitude ionospheric
+  currents due to magnetospheric and lower atmospheric forcing}}.
+\newblock \bibinfo{journal}{Journal of Geophysical Research (Space Physics)}
+  \bibinfo{volume}{121}, \bibinfo{pages}{7067--7086}.
+\newblock \DOIprefix\doi{10.1002/2016JA022817}.
 %Type = Article
 \bibitem[{{Younas} et~al.(2020){Younas}, {Amory-Mazaudier}, {Khan} and
   {Fleury}}]{amory2020_filtros}
